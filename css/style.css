@@ -1,0 +1,243 @@
+@font-face {
+    font-family: "DEUSA ATENA";
+    src:url(../fontes/LuckiestGuy-Regular.ttf);
+}
+
+#inicio{
+    display: flex;
+    justify-content:center;
+    width: 500px;
+    height: 300px;
+    border-radius: 90px;
+    color:rgb(247, 204, 204);
+    margin-left: 400px;
+}
+
+#menu {
+    display: flex;
+    justify-content: center;
+    margin-left: 400px;
+    height: 300px;
+}
+
+body {
+    background-color: rgb(148, 2, 2);
+}
+h1 {
+    font-family: DEUSA ATENA;
+    font-size: 90px;
+    justify-content: center;
+    display: flex;
+    margin-left: 600px;
+}
+
+#principal {
+    justify-content: center;
+    margin-left: 800px;
+    
+}
+
+
+#texto {
+    justify-content:flex-start;
+    height: 20px;
+    font-size: 40px;
+    color:rgb(247, 204, 204);
+    margin-left: 25px;
+}
+
+h2 {
+    font-family: "DEUSA ATENA";
+    font-size: 65pt;
+    justify-content: center;
+    display: flex;
+    margin-left: 30px;
+}
+
+ #fotozeus {
+    justify-content: center;
+    margin-right: 50px;
+}
+
+#linha {
+    display: flex;
+    width: 100%;
+    margin: 150px;
+}
+
+#proximalinha {
+    justify-content: center;
+    margin-top: 50px; 
+
+}
+
+#texto2 {
+    justify-content:left;
+    font-size: 40px;
+    color:rgb(247, 204, 204);
+    margin-left: 150px;
+    border-radius: 300px;
+    height: 40px;
+    width: 800px;
+}
+
+h3 {
+    font-family:"DEUSA ATENA";
+    justify-content:center; 
+    font-size: 30px;
+    color:rgb(247, 204, 204);
+    margin-right: 20px  ;
+    height: 10px;
+    width: 500px;
+}
+
+
+#personagens {
+    justify-content:center;
+    color:rgb(247, 204, 204);
+    margin-left: 1500px;
+    font-size: 35px;
+    height: 600px;
+}
+
+#cidade {
+    display: flex;
+    justify-content: center;
+}
+
+h4 {
+    font-family:"DEUSA ATENA";
+    height: 70px;
+    font-size: 100px;
+    color:rgb(247, 204, 204);
+    margin-left: 400px;
+    justify-content: center;
+}
+
+
+#cidadiz{
+    justify-content:baseline;
+    margin-left: 10px;
+    height: 500px;
+}
+
+#texto3 {
+    justify-content:left;
+    font-size: 40px;
+    color:rgb(247, 204, 204);
+    margin-left: 150px;
+    border-radius: 300px;
+    height: 00px;
+    width: 800px;
+}
+
+#texto4 {
+    justify-content:flex-start;
+    height: 20px;
+    font-size: 40px;
+    color:rgb(247, 204, 204);
+    margin-left: 25px;
+}
+
+#estadio {
+    display:block;
+    width: 900px;
+    margin-right: 50px;
+    height: 300px;
+    justify-content:flex-start;
+    color:rgb(247, 204, 204);
+    margin-left: 1250px;
+}
+
+#linhacidade {
+    display: flex;
+    width: 100%;
+    margin: 150px;
+}
+ 
+
+h5 {
+    display: flex;
+    font-family:"DEUSA ATENA";
+    height: 200px;
+    font-size: 40px;
+    color:rgb(247, 204, 204);
+    width: 50px;
+    margin-left: 500px;
+    margin-top: 500px;
+}
+
+
+#zodiaco {
+    justify-content: center;
+    margin-left: 150px;
+}
+
+#cavaleiros {
+    display: flex;
+    width: 100%;
+    margin-left: 200px;
+    font-size: 30px;
+}
+
+#recomendacao {
+   
+    margin: 150px;
+    justify-content:right;
+    margin: 10px;
+    font-size: 30px;
+}
+
+#link {
+    justify-content: center;
+    margin-left: 200px;
+    width: 800px;
+    height: 35px;
+    font-size: 40px;
+}
+
+#percy {
+    display: flex;
+    width: 350px;
+    margin-left: 850px;
+    font-size: 30px;
+}
+
+#athenas {
+    justify-content: center;
+    margin-left: 150px;
+}
+
+#guerra {
+    display: flex;
+    width: 100%;
+    margin-left: 200px;
+    font-size: 30px
+}
+
+h6 {
+    font-family:"DEUSA ATENA";
+    color:rgb(247, 204, 204);
+    font-size: 40px;
+    margin-left: 1500px;
+
+}
+
+#eu {
+    justify-content: center;
+    margin-left: 1500px;
+}
+
+#eulinda {
+    justify-content: center;
+    margin-right: 50px;
+    margin-left: 150px;
+}
+
+#bio {
+    justify-content:flex-start;
+    height: 20px;
+    font-size: 40px;
+    color:rgb(247, 204, 204);
+    margin-left: 150px;
+}
